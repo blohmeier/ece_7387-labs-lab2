@@ -1,7 +1,8 @@
 # Lab-02 - Introduction	to	Vivado	Tools	Simulation Function – Abacus project
 > The project involves use of 
 > the previously implemented
-> abacus project for
+> abacus project for purposes of 
+> demonstrating testbench functionality.
 
 ### Lab-02 resource links:
 
